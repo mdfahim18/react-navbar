@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { links, social } from './data';
 import logo from './assets/logo.png';
 import { FaBars } from 'react-icons/fa';
